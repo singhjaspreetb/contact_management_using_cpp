@@ -1,4 +1,4 @@
-# contact_management_using_cpp
+# CONTACT MANAGEMENT SYSTEM
 
 <h3>
 Contact Management System is a simple console
